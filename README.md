@@ -8,3 +8,8 @@ Julia is learning code to further her understanding of how people communicates v
 [My LinkedIn] (www.linkedin.com/in/julia-vollaro)
 
 [My Student's Broadcasts] (https://www.youtube.com/@CtownLive)
+
+I'm new to coding, but excited to see where it will take me!
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jvollaro1997&theme=tokyonight)
